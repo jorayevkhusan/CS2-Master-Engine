@@ -1,0 +1,24 @@
+# Python source and bytecode
+*.py
+*.pyc
+*.pyo
+__pycache__/
+
+# PyInstaller build files
+*.spec
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Settings & cache
+*.json
+*.log
+*.tmp
