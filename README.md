@@ -2,7 +2,7 @@
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue?style=for-the-badge&logo=windows)](https://github.com/jorayevkhusan/CS2-Master-Engine)
 [![Game](https://img.shields.io/badge/Game-Counter--Strike%202-orange?style=for-the-badge&logo=counterstrike)](https://github.com/jorayevkhusan/CS2-Master-Engine)
-[![Status](https://img.shields.io/badge/Status-Ready%20to%20Use-brightgreen?style=for-the-badge)](https://github.com/jorayevkhusan/CS2-Master-Engine/raw/master/CS2_Master_Engine.exe)
+[![Status](https://img.shields.io/badge/Status-Ready%20to%20Use-brightgreen?style=for-the-badge)](https://github.com/jorayevkhusan/CS2-Master-Engine/raw/main/CS2_Master_Engine.exe)
 
 **CS2 Smart Master Engine** — Counter-Strike 2 o'yinchilari uchun maxsus ishlab chiqilgan, serverlar bilan bog'lanish sifatini nazorat qiluvchi, ping va jitter'ni kamaytiruvchi, ortiqcha tizim yuklamalarini tozalovchi kuchli optimizatsiya utilitasi.
 
@@ -33,7 +33,7 @@
 
 ## 🚀 O'rnatish va Ishga tushirish (Installation & Usage)
 
-1. [**CS2_Master_Engine.exe**](https://github.com/jorayevkhusan/CS2-Master-Engine/raw/master/CS2_Master_Engine.exe) faylini yuklab oling.
+1. [**CS2_Master_Engine.exe**](https://github.com/jorayevkhusan/CS2-Master-Engine/raw/main/CS2_Master_Engine.exe) faylini yuklab oling.
 2. Dasturni **Administrator sifatida ishga tushiring** (*Run as administrator*).
    > *Eslatma: Windows Firewall qoidalarini sozlash va Timer Resolution'ni 0.5ms ga o'rnatish uchun Administrator huquqi talab qilinadi.*
 3. Dastur interfeysidan o'zingizga ma'qul serverlarni tanlang, yuqori ping beruvchi serverlarni bloklang va eng yaxshi CS2 tajribasidan bahramand bo'ling!
